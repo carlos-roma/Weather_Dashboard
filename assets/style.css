@@ -1,0 +1,96 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: sans-serif;
+    color: black;
+}
+
+header {
+    background-color: rgb(17, 17, 121);
+    color: black;
+    padding: 10px;
+    text-align: center;
+    
+}
+#header_t{color:white ;
+
+}
+
+.main-container {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+}
+
+aside {
+    background-color: rgb(45, 99, 234);
+    color: black;
+    flex: 0 0 20%;
+    padding: 10px;
+}
+
+.search {
+    margin: 7px;
+}
+
+.search form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.search button {
+    background-color: #0c1217;
+    color: #f2f2f2;
+    padding: 5px 10px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+#previous-searches {
+    margin-top: 20px;
+}
+
+#search-history {
+    list-style-type: none;
+    padding: 0;
+}
+
+#search-history li {
+    cursor: pointer;
+    margin: 5px 0;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+main {
+    background-color: rgb(245, 238, 238);
+    flex: 1;
+    padding: 10px;
+}
+
+h1 {
+    justify-content: center;
+    color: black;
+}
+
+.card {
+    background-color: lightblue; /* Light blue background for cards */
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    width: calc(20% - 20px); /* Adjust width as needed */
+    box-sizing: border-box;
+}
+
+.future-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
