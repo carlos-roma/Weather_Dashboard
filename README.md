@@ -12,12 +12,13 @@
   
   ## Description
   A dashboard connected A weather dashboard that displays information about the current and future weather on any given city, saves the searches on the history for future searches.
-
-  ## Screenshot
   
   ## Installation
   Runs on the browser
   
+  ## Screenshot 
+  ![Screenshot (280)](https://github.com/carlos-roma/Weather_dashboard/assets/68045584/7751fe3f-2f9f-4050-bb7c-664065ebc9b7)
+
   ## How to Use This Application
   Enter the city or country that you want to know the weather on the search bar and press enter o click the search button.
   
