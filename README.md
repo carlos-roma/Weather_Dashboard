@@ -17,7 +17,7 @@
   Runs on the browser
   
   ## Screenshot 
-  ![Screenshot (280)](https://github.com/carlos-roma/Weather_dashboard/assets/68045584/7751fe3f-2f9f-4050-bb7c-664065ebc9b7)
+![Screenshot (282)](https://github.com/carlos-roma/Weather_dashboard/assets/68045584/c7763298-5501-40f4-83b7-d754786f19ed)
 
   ## How to Use This Application
   Enter the city or country that you want to know the weather on the search bar and press enter o click the search button.
